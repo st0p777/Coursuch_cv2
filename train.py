@@ -46,5 +46,5 @@ best_model = dict_with_models_result[best_score]
 
 print('{}% of samples were classified correctly from best model!'.format(best_model['score'] * 100))
 
-with open(f'models/model-{get_prefix(True)}', 'wb') as model_file:
+with open(f'models/model-{get_prefix(False)}', 'wb') as model_file:
     pickle.dump({'model': best_model['model']}, model_file)

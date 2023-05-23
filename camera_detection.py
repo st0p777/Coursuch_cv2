@@ -6,7 +6,7 @@ from lib import get_prefix, hands_obj, process_image
 from settings import ALPHABET
 
 
-model = pickle.load(open(f'models/model-{get_prefix(False)}', 'rb'))['model']
+model = pickle.load(open(f'models/model-{get_prefix(True)}', 'rb'))['model']
 cap = cv2.VideoCapture(2)
 
 
