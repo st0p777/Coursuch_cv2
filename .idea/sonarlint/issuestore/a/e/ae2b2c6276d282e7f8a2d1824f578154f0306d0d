@@ -1,0 +1,75 @@
+
+‰python:S1192’"kDefine a constant instead of duplicating this literal "The 'groups' parameter should not be None." 6 times.(Ê¸ÔÑýÿÿÿÿ
+dpython:S117;"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÔÒ€õ
+dpython:S117\"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÄÅÃ“
+ipython:S117f"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ì¼«ûøÿÿÿÿ
+cpython:S117k"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ÔÉ"
+<python:S2638 "#Add a default value to parameter X.(ÿæàö
+epython:S117 "MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿæàö
+jpython:S117¨"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ü£Óãøÿÿÿÿ
+<python:S2638þ"#Add a default value to parameter X.(ÿæàö
+epython:S117þ"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿæàö
+jpython:S117‰"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ü£Óãøÿÿÿÿ
+epython:S117¾"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÔÒ€õ
+dpython:S117ã"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ÔÉ"
+<python:S2638Å"#Add a default value to parameter X.(ÿæàö
+epython:S117Å"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿæàö
+<python:S2638"#Add a default value to parameter X.(˜îÎÝ
+<python:S2638"#Add a default value to parameter y.(˜îÎÝ
+Apython:S2638"(Add a default value to parameter groups.(˜îÎÝ
+epython:S117"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜îÎÝ
+epython:S117¶"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÔÒ€õ
+Bpython:S1172ž")Remove the unused function parameter "X".(Ÿ„¸è
+epython:S117ž"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿ„¸è
+Apython:S2638Ü"#Add a default value to parameter X.(Õßž¥úÿÿÿÿ
+jpython:S117Ü"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õßž¥úÿÿÿÿ
+Apython:S2638á"#Add a default value to parameter y.(þñôŽþÿÿÿÿ
+jpython:S117á"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(þñôŽþÿÿÿÿ
+<python:S2638é"#Add a default value to parameter X.(˜îÎÝ
+<python:S2638é"#Add a default value to parameter y.(˜îÎÝ
+Apython:S2638é"(Add a default value to parameter groups.(˜îÎÝ
+epython:S117é"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜îÎÝ
+epython:S117Ç"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÔÒ€õ
+;python:S2638µ	"#Add a default value to parameter X.(‹é
+;python:S2638µ	"#Add a default value to parameter y.(‹é
+@python:S2638µ	"(Add a default value to parameter groups.(‹é
+dpython:S117µ	"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹é
+dpython:S117Å	"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ÔÉ"
+epython:S117à	"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÔÒ€õ
+;python:S2638µ
+"#Add a default value to parameter X.(‹é
+;python:S2638µ
+"#Add a default value to parameter y.(‹é
+@python:S2638µ
+"(Add a default value to parameter groups.(‹é
+dpython:S117µ
+"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹é
+dpython:S117Ê
+"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ÔÉ"
+epython:S117å
+"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÔÒ€õ
+epython:S117§"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÔÒ€õ
+Epython:S1481Â"'Remove the unused local variable "idx".(”Á»‘úÿÿÿÿ
+dpython:S117Ç"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ÔÉ"
+epython:S117ú"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÔÒ€õ
+epython:S117"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(é®¾‚
+Fpython:S1172 ".Remove the unused function parameter "groups".(¸ÔÉ"
+Apython:S1172 ")Remove the unused function parameter "y".(¸ÔÉ"
+Apython:S1172 ")Remove the unused function parameter "X".(¸ÔÉ"
+dpython:S117 "MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ÔÉ"
+epython:S117œ"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(é®¾‚
+Cpython:S1481¦"%Remove the unused local variable "i".(Ò¸üÿÿÿÿÿ
+<python:S2638Š"#Add a default value to parameter y.(£„–º
+Apython:S2638Š"(Add a default value to parameter groups.(£„–º
+epython:S117Š"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(£„–º
+epython:S117˜"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÔÒ€õ
+epython:S117Š"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(òò©Þ
+Apython:S2638Î"#Add a default value to parameter y.(þñôŽþÿÿÿÿ
+jpython:S117Î"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(þñôŽþÿÿÿÿ
+rpython:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ò¶ß«ùÿÿÿÿ
+jpython:S117õ"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(à»ñ×üÿÿÿÿ
+@python:S2638‘""Add missing parameters X y groups.(«‘Íéøÿÿÿÿ
+dpython:S117™"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ÔÉ"
+dpython:S117µ"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ÔÉ"
+jpython:S117Ê"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(à»ñ×üÿÿÿÿ
+upython:S117‘"XRename this local variable "CVClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(š¦³ýÿÿÿÿ
